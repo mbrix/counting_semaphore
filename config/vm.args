@@ -1,0 +1,5 @@
+-sname counting_semaphore 
+-setcookie counting_semaphore
+
++K true
++A30
